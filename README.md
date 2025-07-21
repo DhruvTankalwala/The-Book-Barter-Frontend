@@ -109,5 +109,5 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## 📩 Contact
 
-For inquiries, reach out at [nayanthacker28@gmail.com](mailto:nayanthacker28@gmail.com).
+For inquiries, reach out at [tankalwaladhruv@gmail.com](mailto:tankalwaladhruv@gmail.com).
 
