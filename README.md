@@ -2,7 +2,7 @@
 
 The **Book Barter Frontend** is a **React-based web application** built with **Vite** to provide a fast and efficient user experience for **The Book Barter** platform. Users can browse, list, and **exchange books with others in their locality**.
 
-## For Book Barter Backend Repo click [here](https://github.com/DhruvTankalwala/The-Book-Barter-Backend.git)
+## [For Book Barter Backend Repo](https://github.com/DhruvTankalwala/The-Book-Barter-Backend.git)
 
 ## 🚀 Features
 
